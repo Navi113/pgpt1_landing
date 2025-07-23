@@ -1,0 +1,7 @@
+.list__link-title {
+  margin: 0 0 4px 0;
+}
+
+.list__link-title:last-child {
+  margin: 0;
+}
