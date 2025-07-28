@@ -20,6 +20,9 @@
 @import url(./blocks/content/__item-img/content__item-img.css);
 @import url(./blocks/content/__item-title/content__item-title.css);
 
+/* footer */
+@import url(./blocks/footer/footer.css);
+@import url(./blocks/footer/__link/footer__link.css);
 
 
 
