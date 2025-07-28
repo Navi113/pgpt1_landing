@@ -1,7 +1,6 @@
 .page {
   max-width: 1000px;
   min-width: 300px;
-  height: 100vh;
   background-color: rgba(129, 129, 129, 0.8);
   border-radius: 20px;
   margin: 0 auto;

@@ -16,7 +16,10 @@
 /* content */
 @import url(./blocks/content/content.css);
 @import url(./blocks/content/__grid/content__grid.css);
-@import url(./blocks/content/__grid-item/content__grid-item.css);
+@import url(./blocks/content/__item/content__item.css);
+@import url(./blocks/content/__item-img/content__item-img.css);
+@import url(./blocks/content/__item-title/content__item-title.css);
+
 
 
 

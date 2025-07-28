@@ -1,0 +1,5 @@
+.content__item-img {
+  height: 100px;
+  object-fit: cover;
+  border-radius: 3px;
+}
