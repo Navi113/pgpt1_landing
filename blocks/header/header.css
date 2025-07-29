@@ -5,4 +5,13 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding: 10px;
+}
+
+@media (width < 425px) {
+  .header {
+    height: auto;
+    display: flex;
+    flex-direction: column;
+  }
 }
