@@ -1,0 +1,13 @@
+.header__link-title {
+  margin: 0 20px 0 0;
+}
+
+.header__link-title:last-child {
+  margin: 0;
+}
+
+@media (width < 425px) {
+  .header__link-title {
+    margin: 0 0 14px;
+  }
+}
